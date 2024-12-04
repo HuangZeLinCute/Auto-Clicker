@@ -4,7 +4,7 @@ This is a computer auto clicker.
 
 operation interface:
 
-![](D:\TBD\AutoClicker\1.png)
+![](1.png)
 
 ## Features
 
